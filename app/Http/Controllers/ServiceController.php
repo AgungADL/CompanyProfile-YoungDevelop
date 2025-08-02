@@ -58,16 +58,9 @@ class ServiceController extends Controller
 
         $caseStudies = [
             [
-                'title' => 'E-commerce Kopi Lokal: "Kopi Nusantara"',
-                'image' => 'porto1.png',
-                'challenge' => 'UMKM Kopi Nusantara kesulitan menjangkau pasar lebih luas dan mengelola pesanan secara manual.',
-                'solution' => 'Kami membangun platform e-commerce kustom dengan fitur katalog produk, keranjang belanja, integrasi pembayaran, dan dashboard manajemen pesanan.',
-                'result' => 'Peningkatan penjualan online sebesar 40% dalam 3 bulan, manajemen stok lebih efisien, dan jangkauan pasar yang meluas.'
-            ],
-            [
-                'title' => 'Website Company Profile: "Inovatech Solutions"',
-                'image' => 'porto2.png',
-                'challenge' => 'Startup teknologi Inovatech Solutions membutuhkan representasi online yang modern untuk menarik investor dan klien potensial.',
+                'title' => 'Website Company Profile: "YoungDevelop"',
+                'image' => 'LogoYD_Dark_HD.svg',
+                'challenge' => 'Startup teknologi YoungDevelop membutuhkan representasi online yang modern untuk menarik investor dan klien potensial.',
                 'solution' => 'Kami merancang dan mengembangkan website company profile responsif dengan desain minimalis, informasi layanan terperinci, dan formulir kontak interaktif.',
                 'result' => 'Peningkatan kredibilitas digital, menarik 15% lebih banyak prospek, dan berhasil mendapatkan pendanaan awal setelah peluncuran.'
             ],

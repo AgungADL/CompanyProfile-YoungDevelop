@@ -64,7 +64,7 @@
                     class="@if (request()->routeIs('portofolio')) text-emerald-600 font-semibold @endif hover:text-emerald-500 transition-colors duration-200 relative group">
                     Portofolio
                     <span
-                        class="absolute left-0 -bottom-1 w-0 h-0.5 bg-emerald-500 transition-all group-hover:w-full @if (request()->routeIs('portfolio')) w-full @endif"></span>
+                        class="absolute left-0 -bottom-1 w-0 h-0.5 bg-emerald-500 transition-all group-hover:w-full @if (request()->routeIs('portofolio')) w-full @endif"></span>
                 </a>
                 <a href="{{ route('kontak') }}"
                     class="@if (request()->routeIs('kontak')) text-emerald-600 font-semibold @endif hover:text-emerald-500 transition-colors duration-200 relative group">

@@ -258,12 +258,16 @@
                 <div class="p-8 rounded-xl bg-emerald-50 border border-emerald-200 shadow-md flex flex-col items-center text-center"
                     data-aos="fade-up" data-aos-delay="200">
                     <div class="text-emerald-600 mb-4">
-                        <svg class="w-12 h-12" fill="none" stroke="currentColor" viewBox="0 0 24 24"
+                        <svg class="h-16 w-16 mx-auto" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7 1.274 4.057-2.011 8-9.542 8-7.533 0-10.817-3.943-9.542-8z" />
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                                <path
+                                    d="M12 3V5M12 19V21M3 12H5M19 12H21M5.6374 5.63604L7.05161 7.05025M16.9511 16.9497L18.3653 18.364M5.6374 18.364L7.05161 16.9497M16.9511 7.05025L18.3653 5.63604M12 8L13.236 10.633L16 11.0578L14 13.1062L14.472 16L12 14.633L9.528 16L10 13.1062L8 11.0578L10.764 10.633L12 8Z"
+                                    stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                </path>
+                            </g>
                         </svg>
                     </div>
                     <h3 class="text-xl font-bold text-emerald-700 mb-2">Desain Intuitif & Pengalaman Pengguna (UI/UX)</h3>
@@ -275,10 +279,16 @@
                 <div class="p-8 rounded-xl bg-emerald-50 border border-emerald-200 shadow-md flex flex-col items-center text-center"
                     data-aos="fade-up" data-aos-delay="300">
                     <div class="text-emerald-600 mb-4">
-                        <svg class="w-12 h-12" fill="none" stroke="currentColor" viewBox="0 0 24 24"
+                        <svg class="w-16 h-16 mx-auto" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M7 8h10M7 12h10M7 16h10m-7-4l-3-3m3 3l3-3m-3 3v4M3 21h18M3 7l9-4 9 4M5 10v10a1 1 0 001 1h12a1 1 0 001-1V10" />
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                                <path
+                                    d="M3 12H21M3 12C3 16.9706 7.02944 21 12 21M3 12C3 7.02944 7.02944 3 12 3M21 12C21 16.9706 16.9706 21 12 21M21 12C21 7.02944 16.9706 3 12 3M12 21C4.75561 13.08 8.98151 5.7 12 3M12 21C19.2444 13.08 15.0185 5.7 12 3"
+                                    stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                </path>
+                            </g>
                         </svg>
                     </div>
                     <h3 class="text-xl font-bold text-emerald-700 mb-2">Teknologi Terdepan & Fleksibel</h3>
@@ -321,10 +331,15 @@
                 <div class="flex items-start p-6 rounded-lg bg-emerald-700/50 backdrop-blur-sm border border-emerald-600 shadow-lg"
                     data-aos="fade-up" data-aos-delay="200">
                     <div class="flex-shrink-0 text-emerald-200 mr-4">
-                        <svg class="w-8 h-8" fill="currentColor" viewBox="0 0 20 20">
-                            <path fill-rule="evenodd"
-                                d="M18 8a6 6 0 01-7.743 10.136H11a6 6 0 01-6-6V5a6 6 0 016-6v2h2a6 6 0 014.743 1.864zM10 20a10 10 0 100-20 10 10 0 000 20zm0-2a8 8 0 100-16 8 8 0 000 16z"
-                                clip-rule="evenodd"></path>
+                        <svg class="w-8 h-8" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                                <path
+                                    d="M4 21C4 17.4735 6.60771 14.5561 10 14.0709M16.4976 16.2119C15.7978 15.4328 14.6309 15.2232 13.7541 15.9367C12.8774 16.6501 12.7539 17.843 13.4425 18.6868C13.8312 19.1632 14.7548 19.9983 15.4854 20.6353C15.8319 20.9374 16.0051 21.0885 16.2147 21.1503C16.3934 21.203 16.6018 21.203 16.7805 21.1503C16.9901 21.0885 17.1633 20.9374 17.5098 20.6353C18.2404 19.9983 19.164 19.1632 19.5527 18.6868C20.2413 17.843 20.1329 16.6426 19.2411 15.9367C18.3492 15.2307 17.1974 15.4328 16.4976 16.2119ZM15 7C15 9.20914 13.2091 11 11 11C8.79086 11 7 9.20914 7 7C7 4.79086 8.79086 3 11 3C13.2091 3 15 4.79086 15 7Z"
+                                    stroke="#a7f3d0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                </path>
+                            </g>
                         </svg>
                     </div>
                     <div>
@@ -338,8 +353,15 @@
                 <div class="flex items-start p-6 rounded-lg bg-emerald-700/50 backdrop-blur-sm border border-emerald-600 shadow-lg"
                     data-aos="fade-up" data-aos-delay="300">
                     <div class="flex-shrink-0 text-emerald-200 mr-4">
-                        <svg class="w-8 h-8" fill="currentColor" viewBox="0 0 20 20">
-                            <path fill-rule="evenodd" d="M10 12a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path>
+                        <svg class="w-8 h-8" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                                <path
+                                    d="M4 12C4 16.4183 7.58172 20 12 20C16.4183 20 20 16.4183 20 12C20 7.58172 16.4183 4 12 4C9.61061 4 7.46589 5.04751 6 6.70835C5.91595 6.80358 5.83413 6.90082 5.75463 7M12 8V12L14.5 14.5M5.75391 4.00391V7.00391H8.75391"
+                                    stroke="#a7f3d0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                </path>
+                            </g>
                         </svg>
                     </div>
                     <div>

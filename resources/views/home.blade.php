@@ -132,11 +132,16 @@
 
                 <div data-aos="fade-up" data-aos-delay="100">
                     <div class="mb-4 text-emerald-600" data-aos="zoom-in" data-aos-delay="200" data-aos-duration="700">
-                        <svg class="w-16 h-16 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24"
+                        <svg class="h-16 w-16 mx-auto" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707L16.586 2.293A1 1 0 0015.879 2H10a2 2 0 00-2 2v6H5a2 2 0 00-2 2v5a2 2 0 002 2h2m2-11V3.049c0-.426.5-.64 1.2-.457l5.3 1.396c.7.183 1.2.775 1.2 1.51v4.865a1 1 0 00.293.707L19 14h-5a2 2 0 00-2 2v5H9a2 2 0 00-2-2v-5a2 2 0 002-2V9a2 2 0 00-2-2h-3a2 2 0 00-2 2v2">
-                            </path>
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                                <path
+                                    d="M12 3V5M12 19V21M3 12H5M19 12H21M5.6374 5.63604L7.05161 7.05025M16.9511 16.9497L18.3653 18.364M5.6374 18.364L7.05161 16.9497M16.9511 7.05025L18.3653 5.63604M12 8L13.236 10.633L16 11.0578L14 13.1062L14.472 16L12 14.633L9.528 16L10 13.1062L8 11.0578L10.764 10.633L12 8Z"
+                                    stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                </path>
+                            </g>
                         </svg>
                     </div>
                     <h3 class="text-xl font-bold text-emerald-700 mb-2">Desain Inovatif & UI/UX Terbaik</h3>
@@ -163,11 +168,15 @@
 
                 <div data-aos="fade-up" data-aos-delay="300">
                     <div class="mb-4 text-emerald-600" data-aos="zoom-in" data-aos-delay="400" data-aos-duration="700">
-                        <svg class="w-16 h-16 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.592 1L21 6m-4 6h4m-9 0h4m-6 4h4m-2 4v2m-6-2v2m-3-12l-3 4h12l-3-4m-2-4v4">
-                            </path>
+                        <svg class="w-16 h-16 mx-auto" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                                <path
+                                    d="M14 7.14614C13.5 7.00383 12.6851 6.99859 12 7.00383C11.7709 7.00558 11.9094 6.9944 11.6 7.00383C10.7926 7.03273 10.0016 7.41781 10 8.50882C9.99825 9.67108 11 10.015 12 10.015C13 10.015 14 10.2803 14 11.5211C14 12.4536 13.1925 12.8621 12.1861 12.9974C11.3861 12.9974 11 13.0272 10 12.8838M12 13V14M12 6V7M21 17V17.8C21 18.9201 21 19.4802 20.782 19.908C20.5903 20.2843 20.2843 20.5903 19.908 20.782C19.4802 21 18.9201 21 17.8 21H6.2C5.0799 21 4.51984 21 4.09202 20.782C3.71569 20.5903 3.40973 20.2843 3.21799 19.908C3 19.4802 3 18.9201 3 17.8V17M19 10C19 13.866 15.866 17 12 17C8.13401 17 5 13.866 5 10C5 6.13401 8.13401 3 12 3C15.866 3 19 6.13401 19 10Z"
+                                    stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                </path>
+                            </g>
                         </svg>
                     </div>
                     <h3 class="text-xl font-bold text-emerald-700 mb-2">Investasi Optimal & Transparan</h3>
@@ -194,11 +203,16 @@
 
                 <div data-aos="fade-up" data-aos-delay="200">
                     <div class="mb-4 text-emerald-600" data-aos="zoom-in" data-aos-delay="300" data-aos-duration="700">
-                        <svg class="w-16 h-16 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24"
+                        <svg class="w-16 h-16 mx-auto" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M9 17v-2m3 4v-2m3 2v-2m6-4h-2m2-2h-2m2-2h-2m2-2h-2m-1-5v2m0 0l-2 2L15 17m-6 2v-2m0 0l2-2L9 13m-3 6h2m2-2h2m-2-2h2m-2-2h2m-3-4V11m0 0l2-2L15 7m-6 2v-2m0 0l-2-2L9 5">
-                            </path>
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                                <path
+                                    d="M4 21C4 17.4735 6.60771 14.5561 10 14.0709M16.4976 16.2119C15.7978 15.4328 14.6309 15.2232 13.7541 15.9367C12.8774 16.6501 12.7539 17.843 13.4425 18.6868C13.8312 19.1632 14.7548 19.9983 15.4854 20.6353C15.8319 20.9374 16.0051 21.0885 16.2147 21.1503C16.3934 21.203 16.6018 21.203 16.7805 21.1503C16.9901 21.0885 17.1633 20.9374 17.5098 20.6353C18.2404 19.9983 19.164 19.1632 19.5527 18.6868C20.2413 17.843 20.1329 16.6426 19.2411 15.9367C18.3492 15.2307 17.1974 15.4328 16.4976 16.2119ZM15 7C15 9.20914 13.2091 11 11 11C8.79086 11 7 9.20914 7 7C7 4.79086 8.79086 3 11 3C13.2091 3 15 4.79086 15 7Z"
+                                    stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                </path>
+                            </g>
                         </svg>
                     </div>
                     <h3 class="text-xl font-bold text-emerald-700 mb-2">Proses Kerja Transparan dan Kolaboratif</h3>
@@ -209,12 +223,14 @@
 
                 <div data-aos="fade-up" data-aos-delay="300">
                     <div class="mb-4 text-emerald-600" data-aos="zoom-in" data-aos-delay="400" data-aos-duration="700">
-                        <svg class="w-16 h-16 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24"
+                        <svg class="w-16 h-16 mx-auto" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M4 6h16M4 10h16M4 14h16M4 18h16"></path>
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                                <path d="M4 14L9 19L20 8M6 8.88889L9.07692 12L16 5" stroke="#059669" stroke-width="2"
+                                    stroke-linecap="round" stroke-linejoin="round"></path>
+                            </g>
                         </svg>
                     </div>
                     <h3 class="text-xl font-bold text-emerald-700 mb-2">Dukungan Purna Jual yang Andal</h3>
