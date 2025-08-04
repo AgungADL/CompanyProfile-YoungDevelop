@@ -12,31 +12,31 @@ class AboutController extends Controller
                 'nama' => 'Agung',
                 'position' => 'Project Manager | Front-End Developer',
                 'bio' => 'Memimpin proyek dengan strategi yang matang dan memastikan setiap detail front-end diimplementasikan dengan presisi, menghasilkan pengalaman pengguna yang luar biasa.',
-                'photo' => 'agung.jpg',
+                'photo' => 'Agung.jpg',
             ],
             [
                 'nama' => 'Alif',
                 'position' => 'Back-End Developer',
                 'bio' => 'Merancang dan mengembangkan arsitektur sistem yang kokoh serta mengoptimalkan kinerja server untuk mendukung fungsionalitas aplikasi yang kompleks.',
-                'photo' => 'alif.jpg',
+                'photo' => 'Alif.jpg',
             ],
             [
                 'nama' => 'Anandhita',
                 'position' => 'Marketing Specialist',
                 'bio' => 'Bertanggung jawab dalam merumuskan strategi pemasaran digital dan komunikasi brand, memastikan pesan YoungDevelop sampai kepada audiens yang tepat.',
-                'photo' => 'anandhita.jpg',
+                'photo' => 'Anandhita.jpg',
             ],
             [
                 'nama' => 'Nazwa',
                 'position' => 'UI / UX Designer',
                 'bio' => 'Berfokus pada estetika visual dan fungsionalitas, merancang interaksi yang mengoptimalkan kepuasan pengguna dan efektivitas desain.',
-                'photo' => 'nazwa.jpg',
+                'photo' => 'Nazwa.jpg',
             ],
             [
                 'nama' => 'Zalva',
                 'position' => 'UI / IX Designer',
                 'bio' => 'Menciptakan antarmuka pengguna yang intuitif dan menarik, serta merancang pengalaman pengguna yang mulus dan berkesan bagi setiap produk digital.',
-                'photo' => 'zalva.jpg',
+                'photo' => 'Zalva.jpg',
             ]
         ];
 

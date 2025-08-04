@@ -33,7 +33,7 @@
 
         .infinite-scroll-content {
             display: flex;
-            animation: scroll-left 40s linear infinite;
+            animation: scroll-left 90s linear infinite;
             will-change: transform;
         }
 
@@ -56,7 +56,7 @@
             }
 
             .infinite-scroll-content {
-                animation-duration: 30s;
+                animation-duration: 60s;
             }
 
             .infinite-scroll-container {
@@ -170,7 +170,7 @@
                                 class="absolute inset-0 bg-gradient-to-br from-transparent via-emerald-50 to-emerald-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-2xl z-0">
                             </div>
                             <div class="relative z-10">
-                                <img src="{{ asset('images/' . $member['photo']) }}" alt="{{ $member['nama'] }}"
+                                <img src="{{ asset('images/team/' . $member['photo']) }}" alt="{{ $member['nama'] }}"
                                     class="w-32 h-32 mx-auto rounded-full object-cover mb-5 border-4 border-emerald-300 shadow-lg group-hover:border-emerald-400 transition-colors duration-300">
                                 <h3
                                     class="text-xl font-bold text-emerald-800 mb-2 group-hover:text-emerald-900 transition-colors duration-300">
@@ -190,7 +190,7 @@
                                     class="absolute inset-0 bg-gradient-to-br from-transparent via-emerald-50 to-emerald-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-2xl z-0">
                                 </div>
                                 <div class="relative z-10">
-                                    <img src="{{ asset('images/' . $member['photo']) }}" alt="{{ $member['nama'] }}"
+                                    <img src="{{ asset('images/team/' . $member['photo']) }}" alt="{{ $member['nama'] }}"
                                         class="w-32 h-32 mx-auto rounded-full object-cover mb-5 border-4 border-emerald-300 shadow-lg group-hover:border-emerald-400 transition-colors duration-300">
                                     <h3
                                         class="text-xl font-bold text-emerald-800 mb-2 group-hover:text-emerald-900 transition-colors duration-300">
@@ -210,7 +210,7 @@
                                     class="absolute inset-0 bg-gradient-to-br from-transparent via-emerald-50 to-emerald-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-2xl z-0">
                                 </div>
                                 <div class="relative z-10">
-                                    <img src="{{ asset('images/' . $member['photo']) }}" alt="{{ $member['nama'] }}"
+                                    <img src="{{ asset('images/team/' . $member['photo']) }}" alt="{{ $member['nama'] }}"
                                         class="w-32 h-32 mx-auto rounded-full object-cover mb-5 border-4 border-emerald-300 shadow-lg group-hover:border-emerald-400 transition-colors duration-300">
                                     <h3
                                         class="text-xl font-bold text-emerald-800 mb-2 group-hover:text-emerald-900 transition-colors duration-300">
