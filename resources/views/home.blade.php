@@ -334,14 +334,14 @@
                     data-aos="fade-up" data-aos-delay="100" data-aos-duration="800">
                     <p class="italic text-gray-700 text-lg mb-4 leading-relaxed">
                         "Kolaborasi dengan YoungDevelop sungguh memuaskan. Timnya sangat responsif dan komunikatif,
-                        menghasilkan website toko online yang melampaui ekspektasi. Kini, platform bisnis saya tampil
+                        menghasilkan website daftar resep yang melampaui ekspektasi. Kini, platform website saya tampil
                         profesional dan sangat user-friendly."
                     </p>
                     <div class="flex flex-col items-center justify-center mt-6">
                         <img src="{{ asset('images/testimoni/Siti.png') }}" alt="Foto Siti"
                             class="w-16 h-16 rounded-full object-cover mb-3 border-2 border-emerald-400 shadow-md">
                         <p class="font-bold text-emerald-700">- Siti</p>
-                        <p class="text-gray-500 text-sm">Pemilik UMKM Kuliner "Rasa Nusantara"</p>
+                        <p class="text-gray-500 text-sm">Mahasiswa Teknik Informatika</p>
                     </div>
                 </div>
 
@@ -360,7 +360,7 @@
                     </div>
                 </div>
 
-                <div class="bg-white p-8 rounded-lg shadow-lg border-t-4 border-emerald-500 hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1"
+                {{-- <div class="bg-white p-8 rounded-lg shadow-lg border-t-4 border-emerald-500 hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1"
                     data-aos="fade-up" data-aos-delay="300" data-aos-duration="800">
                     <p class="italic text-gray-700 text-lg mb-4 leading-relaxed">
                         "Website startup kami dikembangkan dengan kualitas superior oleh YoungDevelop. Desainnya
@@ -373,7 +373,7 @@
                         <p class="font-bold text-emerald-700">- Andre</p>
                         <p class="text-gray-500 text-sm">Founder "Inovatech Solutions"</p>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
     </section>

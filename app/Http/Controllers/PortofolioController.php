@@ -14,7 +14,7 @@ class PortofolioController extends Controller
                 'short_description' => 'Desain website company profile modern dan responsif untuk startup teknologi, menonjolkan layanan dan portofolio.',
                 'image' => 'YoungDevelop_SS.png',
                 'category' => 'Startup', 
-                'live_url' => 'https://example.com/kopi-nusantara', 
+                'live_url' => '#', 
             ],
             [
                 'title' => 'CoGuide',
